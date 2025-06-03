@@ -1,1 +1,2 @@
 :relieved: Simple and Robust Accounting
+# match the style used in the rest of the module
